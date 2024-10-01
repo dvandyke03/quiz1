@@ -1,3 +1,5 @@
+
+
 nyc_trends = [{'as_of': '2022-03-29T21:12:02Z',
   'created_at': '2022-03-28T10:40:19Z',
   'locations': [{'name': 'New York', 'woeid': 2459115}],
@@ -256,6 +258,8 @@ nyc_trends = [{'as_of': '2022-03-29T21:12:02Z',
 
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+
+
 
 new_dict = {}
 

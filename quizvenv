@@ -1,3 +1,0 @@
-python3-m venv quizvenv
-source bin/activate/quizvenv
-pip3 install wordcloud
